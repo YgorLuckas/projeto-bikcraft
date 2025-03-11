@@ -19,3 +19,9 @@ li {
 a {
   text-decoration: none;
 }
+
+li {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
