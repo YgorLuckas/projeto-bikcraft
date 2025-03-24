@@ -10,3 +10,5 @@
 @import url("./utilidades/tipografia.css");
 @import url("./utilidades/cores.css");
 @import url("./bicicletas/bicicletas-lista.css");
+@import url("../termos.html");
+@import url("./termos/termos.css");
